@@ -1,7 +1,7 @@
 # HW-4.3
 
 ## About
-This repository contains materials for HW #4.3, including the QMD file, rendered PDF, and version control activity.
+This repository contains materials for HW #4.3,  including the QMD file, rendered PDF, and version control activity.
 
 ## Data Source
 The data used in this project comes from the provided course dataset.
