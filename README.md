@@ -15,4 +15,4 @@ The project was completed by creating a QMD file, rendering it to PDF, and manag
 - plan.md → project plan  
 
 ## Contact
-Name: Your Name
+Name: Oyindamola Sanni
